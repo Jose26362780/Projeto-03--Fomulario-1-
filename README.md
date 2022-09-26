@@ -26,7 +26,7 @@ Projeto construido no stage 03 do programa Explorer da rocketseat - Avaçando no
 ##  🖥️ O que aprendi 
 
 
--incorporação de button e submit assim com a estruturação de formularios 
+- incorporação de button e submit assim com a estruturação de formularios 
 - validações 
 - maneiras de enviar o formulario 
 
